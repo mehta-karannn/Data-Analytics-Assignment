@@ -1,0 +1,7 @@
+hello
+this is a new lineAppend operation Append operation
+ first line
+second line
+third line
+Append operation 
+ 
